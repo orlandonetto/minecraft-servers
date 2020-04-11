@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "notes": [],
+  "isFrozen": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "mail": [],
+  "lastKnownName": "Maverick_W",
+  "lastLogin": 1586641467350,
+  "lastLogout": 1586644384704,
+  "lastIP": "/192.168.0.167",
+  "firstJoin": 1586641467350,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "warnings": [],
+  "invulnerable": false,
+  "powertools": {},
+  "lastLocation": {
+    "x": -141.7773672714456,
+    "y": 76.0,
+    "z": 260.63257714950703,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "1f37bb43-d3df-414a-98d9-f30d3a03b4f9"
+  }
+}

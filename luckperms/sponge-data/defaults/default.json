@@ -1,0 +1,17 @@
+{
+  "permissions": [
+    {
+      "context": {
+        "gp_claim": "44b9e26a-8fc4-4d1f-b43b-45dfb5b6f20e"
+      },
+      "data": {
+        "griefprevention.flag.interact-block-primary.minecraft.standing_sign": true,
+        "griefprevention.flag.interact-block-primary.minecraft.wall_sign": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.standing_sign": true,
+        "griefprevention.flag.interact-block-secondary.minecraft.wall_sign": true
+      }
+    }
+  ],
+  "options": [],
+  "parents": []
+}
